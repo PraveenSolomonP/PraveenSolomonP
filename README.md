@@ -19,7 +19,7 @@ MSc Data Science (pursuing) <br>Passionate about Data Engineering & Data Science
 [![](https://visitcount.itsvg.in/api?id=PraveenSolomonP&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+.
 <!--
 **PraveenSolomonP/PraveenSolomonP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
