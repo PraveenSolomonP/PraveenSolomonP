@@ -1,6 +1,5 @@
 # 🧑‍💻About Me:
-MSc Data Science (pursuing) <br>Passionate about Data Engineering & Data Science<br>Python, SQL , ML, AI enthusiast <br>Building data-driven projects & sharing code
-
+I am currently pursuing an MSc in Data Science and have a strong interest in both Data Engineering and Data Science. I enjoy working with technologies such as Python, SQL, Machine Learning, and Artificial Intelligence to explore data and build meaningful solutions. I am passionate about creating data-driven projects, continuously improving my technical skills, and sharing code and knowledge to contribute to the data community and solve real-world problems. 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveensptechie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveensolomon94@gmail.com) 
