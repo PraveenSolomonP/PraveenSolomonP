@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑‍💻About Me:
 MSc Data Science (pursuing) <br>Passionate about Data Engineering & Data Science<br>Python, SQL , ML, AI enthusiast <br>Building data-driven projects & sharing code
 
 
